@@ -9,7 +9,6 @@ function Profile() {
         return <div>Please login</div>
     }
     return <div> Welcome {user.username}</div>
-  
 }
 
 export default Profile
